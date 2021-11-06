@@ -1,1 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Famous Quote</title>
+  </head>
+  <body>
+    <!-- Intro Header -->
+      <div class="container my-5">
+        <hr style="border-color: black;">
+        <h1 style="text-align: center;" style="color:red;font-size:40px" class="display-1 mb-1"><b>Jesse Rutherford Quotes :-)</b></h1>
+        <p class="lead" style="text-align: center;">
+
+
+          <p style="text-align:center" text="40px;"><b>"I was born to be blonde. I’m a fucking icon!"</b></p>
+          <p style="text-align:center"><b>"Ask me how I’m doing today, bet I’ll say I’m okay. But I’m rotting away inside."</b></p>
+          <p style="text-align:center"><b>"The hardest part of makin’ love is breakin’ up. So if you don’t mind, I think we should stay in love."</b></p>
+        <hr style="border-color: black;">
+
+        <body style="background-color: rgb(100, 150, 300);">
+      </div>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Jesse</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="d-flex justify-content-center">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="https://i.imgur.com/Tc2D7S4.png" width="500" height="600">
+      </div>
+
+      <div class="item">
+        <img src="https://i.imgur.com/QQjvKD5.png"  width="500" height="600" align="middle">
+      </div>
+
+      <div class="item">
+        <img src="https://i.imgur.com/wfkEChs.png" width="500" height="600">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+
+
+
+<!-- Music -->
+  <div class="row center">
+    <div class="col-sm-6">
+      <a class="thumbnail" href="https://www.youtube.com/watch?v=ggG9ySCChYw">
+        <img class="img-rounded" src="https://i.imgur.com/RGP4A8V.png" style="width;400px; height:300px;" />
+        <a class="thumbnail" href="https://www.youtube.com/watch?v=FtIo2pbtrJg">
+          <img class="img-rounded" src="https://i.imgur.com/pUNuAD1.png" style="width:300px; height:300px;" />
+        </a>
+      </a>
+    </div>
+      <div class="col-sm-6">
+        <a class="thumbnail" href="https://www.youtube.com/watch?v=Ao81ziiXHhs">
+          <img class="img-rounded" src="https://i.imgur.com/X0ujYkt.png" style="width:300px; height:300px;" />
+          <a class="thumbnail" href="https://www.youtube.com/watch?v=Z3UCVQIjAJ8">
+            <img class="img-rounded" src="https://i.imgur.com/C5Ey8XZ.png" style="width:300px; height:300px;" />
+          </a>
+        </a>
+      </div>
 
